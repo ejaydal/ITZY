@@ -1,0 +1,61 @@
+h1{
+	font-size: 400%;
+	font-family: oswald;
+}
+
+h3{
+	font-style: italic;
+	font-family: brush script mt;
+	font-size: 250%;
+}
+h4{
+	font-family: oswald;
+	font-size: 200%;
+}
+
+b{
+	font-size: 150%;
+
+}
+
+body{
+	text-align: center;
+	font-family: monospace;
+	background:url(skyp.jpg) no-repeat;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+p{
+	font-family: Candara;
+	text-align: center;
+	font-size: 110%;
+}
+
+li{
+	font-family: Candara;
+	font-size: 120%;
+}
+
+img{
+	width: 50%;
+	display: block;
+	margin: auto;
+	border-radius: 7%;
+	border: 2px solid;
+	padding: 10px;
+	box-shadow: 5px 10px 18px blue;
+}
+.par{
+	text-align: center;
+}
+
+.itz{
+	width: 20%;
+}
+
+hr{
+	border-top: 1px solid blue;
+}
+
